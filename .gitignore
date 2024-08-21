@@ -1,0 +1,6 @@
+/augmented_palm_print_db/
+/palm_print_db/
+/processed_palm_print_db/
+/trainTestVal/
+/mean_rgb_val.csv
+.idea/
